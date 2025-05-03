@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @binxia1010
 
-- 🧬 I’m a molecular biologist specializing in plant genomics and bioinformatics.
-- 🔬 I focus on genome assembly, gene family evolution (e.g., TPS), and regulatory networks.
+- 🔬 I focus on genome assembly, gene family evolution , and regulatory networks.
 - 💻 I build reproducible bioinformatics workflows using Bash, Python, Snakemake, and Conda.
 - 🌱 I’m currently developing tools for high-quality T2T genome assembly and TE annotation in plant.
 - 🧪 I’m also interested in CRISPR gene editing validation and ASE analysis.
